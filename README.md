@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Studi Kasus Pada Camp-404 kelas Laravel
 
-<p align="center">Thanks to Camp-404</p>
+<p align="center">Thanks to <a href="https://camp404.com/"> Camp-404</a></p>
 
 ## License
 
